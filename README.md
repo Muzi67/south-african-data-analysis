@@ -62,16 +62,16 @@ These findings are descriptive and do not establish the causes of unemployment.
 
 ## Visualisations
 
-### Monthly Sales
+### 1. Monthly Sales Analysis
 ![Monthly Sales Analysis](images/monthly_sales.png)
 
-### National Unemployment Trend
-![South African Unemployment Trend](images/sa_unemployment_trend.png)
+### 2. South African Unemployment Trend
+![Unemployment Trend](images/sa_unemployment_trend.png)
 
-### Provincial Unemployment Comparison
+### 3. Provincial Unemployment Comparison
 ![Provincial Unemployment](images/provincial_unemployment.png)
 
-### Gender Unemployment Comparison
+### 4. Gender Unemployment Comparison
 ![Gender Unemployment](images/gender_unemployment.png)
 
 ## Data Source
